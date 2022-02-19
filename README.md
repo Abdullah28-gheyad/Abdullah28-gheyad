@@ -5,3 +5,5 @@
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: gheyadabdalla3@gmail.com
 - ⚡ Fun fact:I spend almost 10 hours sleeping every day.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah28-gheyad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
