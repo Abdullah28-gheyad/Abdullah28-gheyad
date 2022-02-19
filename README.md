@@ -10,5 +10,6 @@
 
 ### Top Language 
 
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah28-gheyad">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah28-gheyad)](https://github.com/Abdullah28-gheyad/github-readme-stats)
+
 
