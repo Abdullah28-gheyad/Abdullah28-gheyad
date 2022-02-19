@@ -10,4 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah28-gheyad)](https://github.com/Abdullah28-gheyad/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdullah28-gheyad)](https://github.com/Abdullah28-gheyad/github-readme-stats)
+
+
 
